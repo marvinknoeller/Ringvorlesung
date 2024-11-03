@@ -12,3 +12,5 @@ To install Bempp in the needed version:
 7. **pip install gmsh==4.13.1**
 8. **pip install plotly pyopencl**
 9. **pip install matplotlib**
+
+Make sure that you have a running version of Matlab and of GMSH (see https://gmsh.info )
